@@ -13,10 +13,11 @@
 
 * Wyświetlanie temperatury wymaga włączonego programu \*\*Open Hardware Monitor\*\*!
 * Pobierz go tutaj: \[openhardwaremonitor.org](https://openhardwaremonitor.org/)
-* 
+
 
 &#x20;Współtwórcy:
 
 * \* \[Claude.ai](https://claude.ai)
 * \* \[Gemini.google.com](https://gemini.google.com)
 
+Funkcje sprawdzające procesy python mają nazwy dostosowane po moje osobiste aplikacje.
