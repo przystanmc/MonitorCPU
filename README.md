@@ -17,7 +17,7 @@
 
 &#x20;Współtwórcy:
 
-* \* \[Claude.ai](https://claude.ai)
-* \* \[Gemini.google.com](https://gemini.google.com)
+* \ \[Claude.ai](https://claude.ai)
+* \ \[Gemini.google.com](https://gemini.google.com)
 
 Funkcje sprawdzające procesy python mają nazwy dostosowane po moje osobiste aplikacje.
