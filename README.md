@@ -1,5 +1,5 @@
 # System Monitor
-(images/logo.png)
+(images/monitor.png)
 &#x20;Funkcje:
 
 * CPU / RAM - Dokładnie rozpisane rdzenie oraz moduły RAM
